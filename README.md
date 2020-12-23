@@ -1,9 +1,9 @@
-# Crud-Operation
-Secure Login management system and perform crud operations with the help of mysql
-<div align="center">
-	<h1>CRUD OPERATION AND SECURE LOGIN<br>
 
-	</h1>
+
+<div align="center">
+	<h1>CRUD OPERATION AND SECURE LOGIN</h1><br>
+Secure Login management system and perform crud operations with the help of mysql
+	
 </div>
 
 
@@ -19,11 +19,11 @@ Secure Login management system and perform crud operations with the help of mysq
 
 ## 🎩 INSTALLATION
 
--Install Xamp for Mysql and apache server and php working environemnt
+Install Xamp for Mysql and apache server and php working environemnt
 
 ## 🏗 USAGE
 
--Start apache and mysql server and make a database of name uniproject and tables of name users and tblproducts
+Start apache and mysql server and make a database of name uniproject and tables of name users and tblproducts
 
 ## 📌Video-link
 
