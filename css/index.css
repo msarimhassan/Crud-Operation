@@ -1,0 +1,56 @@
+ body
+{
+    background-image: url("cover.jpg");
+}
+.box
+{
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+input{
+    color:white;
+    outline: none;
+}
+.inputs
+{
+    border: 2px solid #0BAEE7;
+    border-radius: 20px 0px 20px 0px;
+    width: 300px;
+      background: transparent;
+      height: 50px;
+      
+      
+ 
+}
+::placeholder {
+  color:white;
+  opacity: 1; 
+ text-align: center;
+
+
+}
+.error{
+    color:#EC1702;
+    font-size: 2em;
+}
+.success
+{
+    color: #76F60B;
+    font-size: 2em;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+  a:hover{
+color: white;
+  }
+
+label
+{
+    color: white;
+    font-size: 2em;
+
+} 
