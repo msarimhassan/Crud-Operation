@@ -25,6 +25,6 @@ Install Xamp for Mysql and apache server and php working environemnt
 
 Start apache and mysql server and make a database of name uniproject and tables of name users and tblproducts
 
-## 📌Video-link
+## 📌Video 
 
--   https://drive.google.com/file/d/1bT9aJzE_PVq5zE_vHI7mZG4v8SxLBroF/view?usp=sharing
+-  [Video Link](https://drive.google.com/file/d/1bT9aJzE_PVq5zE_vHI7mZG4v8SxLBroF/view?usp=sharing)
